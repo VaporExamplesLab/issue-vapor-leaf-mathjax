@@ -13,4 +13,9 @@ public func routes(_ router: Router) throws {
             "name": req.parameters.next(String.self)
         ])
     }
+    
+    // :ADD: math
+    router.get("math") { req -> Future<View> in
+        return try req.view().render("math")
+    }
 }
