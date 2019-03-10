@@ -12,7 +12,9 @@
     </a>
 </p>
 
-[MathJax](https://www.mathjax.org/) is a JavaScript display engine for mathematics that works in all browsers. However, the Vapor Leaf and MathJax combination does not render math eqpressions correctly.
+[MathJax](https://www.mathjax.org/) is a JavaScript display engine for mathematics that works in all browsers. However, the [Vapor Leaf](https://github.com/vapor/leaf) and [MathJax](https://www.mathjax.org/) combination does not render math expressions correctly.
+
+The example code for this issue is in the GitHub [VaporExamplesLab/issue-vapor-leaf-mathjax](https://github.com/VaporExamplesLab/issue-vapor-leaf-mathjax) repository.
 
 ### Steps to reproduce
 
